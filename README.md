@@ -1,1 +1,1 @@
-Alloy wallet originates from a clone of [CryptoNote's](https://cryptonote.org) GUI wallet.
+RedStone wallet originates from a clone of [CryptoNote's](https://cryptonote.org) GUI wallet.
