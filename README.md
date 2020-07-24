@@ -3,15 +3,15 @@
 
 # REPLACE ICONS
 
---\Avrio-GuiwalleT\src\images
+--\guiwallet\src\images
 
 REPLACE GUI IMAGES(if wanted)
 
---Avrio-GuiwalleT\src\icons
+--guiwallet\src\icons
 
 WANT ADD SOMETHING 
 
---\Avrio-GuiwalleT\src\gui
+--\guiwalletT\src\gui
 
 donation addr dna:0x6357cdf056b0dca75a14094987fa7eabbd78be5f
 
