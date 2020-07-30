@@ -24,4 +24,4 @@ RedStone wallet originates from a clone of [CryptoNote's](https://cryptonote.org
 
 
 # By Toni.Dev
-####© RedStone 2020. All Rights Reserved.
+### © RedStone 2020. All Rights Reserved.
