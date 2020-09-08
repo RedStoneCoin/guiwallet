@@ -13,7 +13,7 @@ WANT ADD SOMETHING
 
 --\guiwalletT\src\gui
 
-donation addr dna:0x6357cdf056b0dca75a14094987fa7eabbd78be5f
+donation addr btc:
 
 
 
